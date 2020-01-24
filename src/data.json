@@ -1,0 +1,67 @@
+{
+  "title": "Hello I'm Faeze Shakeri",
+  "subtitle": "Html | Css | Bootstrap | jQuery |  JavaScript | React",
+  "links": {
+    "github": "https://github.com/f-shakeri",
+    "instagram": "https://www.instagram.com/_faeze_shakeri/?hl=en"
+  },
+  "sections": [
+    {
+      "title": "About",
+      "item": [
+        {
+          "type": "p",
+          "content": "Lorem ipsum is placeholder text commonly used in the graphic, print, and publishing industries for previewing layouts and visual mockups."
+        }
+      ]
+    },
+    {
+      "title": "Skills",
+      "item": [
+        {
+          "type": "card",
+          "content": {
+            "image": "https://www.shareicon.net/data/512x512/2016/08/01/640324_logo_512x512.png",
+            "title" : "React"
+          }
+        },
+        {
+            "type": "card",
+            "content": {
+              "image": "http://icons.iconarchive.com/icons/cornmanthe3rd/plex/256/Other-html-5-icon.png",
+              "title" : "Html"
+            }
+          },
+          {
+            "type": "card",
+            "content": {
+              "image": "http://icons.iconarchive.com/icons/martz90/hex/512/css-3-icon.png",
+              "title" : "Css"
+            }
+          },
+          {
+            "type": "card",
+            "content": {
+              "image": "https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/000/205/square_280/javascriptlang.png",
+              "title" : "Javascript"
+            }
+          }, {
+            "type": "card",
+            "content": {
+              "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png",
+              "title" : "Bootstrap"
+            }
+          }, {
+            "type": "card",
+            "content": {
+              "image": "https://www.algoos.com/wp-content/uploads/2017/06/jquery-icon-9.png",
+              "title" : "jQuery"
+            }
+          }
+      ]
+    }
+  ],
+  "icons" : {
+      "button" : "../image/button.png",
+      "paint" : "../image/paint.png"
+}}

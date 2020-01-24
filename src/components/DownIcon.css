@@ -1,0 +1,16 @@
+html {
+  scroll-behavior: smooth;
+}
+.downbutton {
+    max-width: 7%;
+    margin-top: 7%;
+  }
+  
+  .downdiv {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    transform: translateY(150px);
+  }
+  

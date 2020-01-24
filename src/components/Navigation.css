@@ -1,0 +1,12 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.navigation{
+    background-color: rgb(156, 156, 6) !important;
+}
+
+.paint {
+height: 4%;
+width: 4%;
+}
